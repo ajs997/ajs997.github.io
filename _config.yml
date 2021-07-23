@@ -16,8 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-domain: ajs997.github.io
-url: https://ajs997.github.io/
+url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
