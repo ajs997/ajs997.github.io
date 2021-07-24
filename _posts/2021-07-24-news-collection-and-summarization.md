@@ -1,5 +1,5 @@
 ---
-title: News collection and summarization
+title: News collection and summarization Tool
 hidden: true
 layout: post
 projects: true

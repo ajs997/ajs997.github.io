@@ -2,16 +2,18 @@
 title: About
 layout: page
 ---
+<h2 class="title" style="font-family: 'Noto Serif';">ABOUT</h2>
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Hey you!<span>&#128075;</span> I’m Ajay</p>
 
-<p>Currently working as a Software Developer at Oracle, Bangalore. I've worked
+<p>I graduated in 2019 from BMSCE, Bangalore with a major in Computer Science.
+Currently working as a Software Developer at Oracle, Bangalore. I've worked
 and explored the fields of machine learning with various projects covering the
 major portions of Natural Language Processing. Explore my profile and feel free
 to get in touch anytime. </p>
 
-<h2 style="font-family: 'Noto Serif';">Work Experience</h2>
+<h2 style="font-family: 'Noto Serif';">WORK EXPERIENCE</h2>
 
 <ul class="skill-list">
 	<li><h4 style="font-family: 'Noto Sans';">Oracle India pvt ltd, Senior Member Technical Staff<br> June 2019–Present, Bangalore</h4></li>
