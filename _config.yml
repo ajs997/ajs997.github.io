@@ -14,7 +14,7 @@ picture: assets/images/images.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/files/ajays_resume.pdf
+resume-url: /assets/files/ajays_resume.pdf
 
 domain: ajs997.github.io
 url: https://ajs997.github.io
