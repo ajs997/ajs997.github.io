@@ -8,10 +8,17 @@ layout: page
 
 <h1 class="title">{{ page.title }}</h1>
 
-<span class="date">
-    <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
-    {% if site.read-time %} - {% include read-time.html %}{% endif %}
-</span>
+{% if page.category == "project" %}
+  <span class="date">
+      <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%B, %Y" }}</time>
+  </span>
+{% else %}
+  <span class="date">
+      <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
+      {% if site.read-time %} - {% include read-time.html %}{% endif %}
+  </span>
+{% endif %}
+
 
 {% if site.show-tags %}
     <div class="post-tags">
@@ -36,12 +43,14 @@ layout: page
     </div>
 {% endif %}
 
-{% if site.related %}
+{% if site.related and page.category != "project" %}
     {% include related.html %}
 {% endif %}
 
+{% if page.category != "project" %}
 {% if site.show-author %}
     {% include author.html %}
+{% endif %}
 {% endif %}
 
 <!-- {% if site.disqus.categories contains page.category %}

@@ -1,10 +1,16 @@
 ---
 title: Automated Attendance System using Facial Recognition
-hidden: true
-projects: true
-category: projects
 layout: post
-date: '2021-07-24 16:48:18'
+date: '2021-07-24 16:48'
+tag:
+- markdown
+- components
+- extra
+hidden: true
+category: project
+projects: true
+author: ajays
+ct: 2
 ---
 
 TBD

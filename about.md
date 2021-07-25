@@ -7,7 +7,7 @@ layout: page
 
 <p>Hey you!<span>&#128075;</span> I’m Ajay</p>
 
-<p>I graduated in 2019 from BMSCE, Bangalore with a major in Computer Science.
+<p>I graduated in 2019 from BMSCE, Bangalore with a degree in Computer Science and Engineering.
 Currently working as a Software Developer at Oracle, Bangalore. I've worked
 and explored the fields of machine learning with various projects covering the
 major portions of Natural Language Processing. Explore my profile and feel free
