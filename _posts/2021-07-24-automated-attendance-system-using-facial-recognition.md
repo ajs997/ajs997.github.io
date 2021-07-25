@@ -1,11 +1,10 @@
 ---
 title: Automated Attendance System using Facial Recognition
 layout: post
-date: '2021-07-24 16:48'
+date: '2019-01-01 00:00'
 tag:
-- markdown
-- components
-- extra
+- ML
+- Python
 hidden: true
 category: project
 projects: true
@@ -13,4 +12,4 @@ author: ajays
 ct: 2
 ---
 
-TBD
+• Built an automated attendance system applying the combinations of machine learning and Viola Jones algorithm.

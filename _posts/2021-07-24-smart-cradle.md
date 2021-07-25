@@ -1,7 +1,7 @@
 ---
 title: Smart Cradle
 layout: post
-date: '2021-07-24 16:42'
+date: '2017-08-01 01:00'
 tag:
 - IOT
 hidden: true
@@ -11,4 +11,4 @@ author: ajays
 ct: 4
 ---
 
-To Be Done
+• Built a smart, automatic cradle that reduces the need for constant human monitoring of an infant.

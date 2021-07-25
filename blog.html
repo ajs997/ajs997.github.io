@@ -7,7 +7,7 @@ pagination:
   enabled: true
 ---
 <section class="list">
-	{% if site.posts.size == 0 %}
+	{% if site.posts.size == 7 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.pagination.enabled %}
 		{% for post in paginator.posts %}
