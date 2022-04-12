@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 <h2 class="title" style="font-family: 'Noto Serif';">ABOUT</h2>
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+<!--![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})-->
 
 <p>Hey you!<span>&#128075;</span> I’m Ajay</p>
 
