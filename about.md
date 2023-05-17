@@ -16,8 +16,7 @@ to get in touch anytime <span>&#9749;</span></p><br>
 <h2>ACTIVITIES AT UVA</h2>
 <ul class="skill-list">
     <li><h4 style="font-family: 'Comic Sans MS';">Research Assistant at <a href="https://biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing">UVa Biocomplexity Institute</a> under Prof. Srinivasan Venkatramanan, Spring 2023-present</h4></li>
-	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black;">• Working on a interactive tool for public health
-        practitioners to extract insights from time series data related to ongoing epidemic outbreaks.<br>• This tool will allow users to select a time series of epidemiological significance and
+	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black;font-size:14px;">• Working on a interactive tool for public health practitioners to extract insights from time series data related to ongoing epidemic outbreaks.<br>• This tool will allow users to select a time series of epidemiological significance and
         extract categorical indicators of activity over time.<br></p>
     <li><h4 style="font-family: 'Comic Sans MS';">Teaching Assistant for APMA3110 <a href="https://www.coursicle.com/virginia/courses/APMA/3110/">Applied Statistics and Probability</a> taught by Prof. Deepyaman Maiti, Spring 2023</h4></li>
     <li><h4 style="font-family: 'Comic Sans MS';">Teaching Assistant for APMA3150 <a href="https://www.coursicle.com/virginia/courses/APMA/3150/">From Data to Knowledge</a> taught by Prof. Gianluca Guadagni, Fall 2022</h4></li>
@@ -62,19 +61,33 @@ to get in touch anytime <span>&#9749;</span></p><br>
 
 <h2>WORK EXPERIENCE</h2>
 <ul class="skill-list">
-	<li><h4 style="font-family: 'Comic Sans MS';">OracleCorporation, Senior Member Technical Staff<br /> June 2019–July 2022, Bangalore, India</h4></li>
-	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black;">• Enhancing and maintaining User Messaging Service component of Oracle SOA Suite, which is built on J2EE
+	<li><h4 style="font-family: 'Comic Sans MS';">Oracle Corporation, Senior Member Technical Staff<br /> June 2019–July 2022, Bangalore, India</h4></li>
+	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black;font-size:14px;">• Enhancing and maintaining User Messaging Service component of Oracle SOA Suite, which is built on J2EE
         technologies and used by more than 100+ customers.<br>• Implemented the migration of UMS from 11g to 12c version. Designed compatible codes to support the product
         during and after the migration process.<br>• ARCAT Tool: Developed a self-contained tool to aid in the root cause identification from server logs. This
         reduced customer escalations and troubleshooting time.<br>• ARCAT Analytics: Built a live, interactive analytics dashboard to display the reporting statistics of ARCAT
         users with a variety of filtering options. Tech: ADF, JSF, JPA.<br>• Research: Key participant in the research project of developing a search engine to display matching bug details
         based on an exception stack. My primary focus was on word embedding and text similarity.</p>
 	<li><h4 style="font-family: 'Comic Sans MS';">Nokia Solutions and Networks, Data Science Intern <br />January 2019–May 2019, Bangalore, India</h4></li>
-	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black;">• Cleaning and validating the data to ensure accuracy, completeness and uniformity.<br />• Developed algorithms and models to identify patterns and trends.</p>
+	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black; font-size:14px;">• Cleaning and validating the data to ensure accuracy, completeness and uniformity.<br />• Developed algorithms and models to identify patterns and trends.</p>
 	<li><h4 style="font-family: 'Comic Sans MS';">ONGC Mangalore Petrochemicals ltd, Research Intern <br />June 2017–July 2017, Mangalore, India</h4></li>
-	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black;">My study was concentrated on finding an efficient solution to detect pipeline cracking.</p>
+	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black; font-size:14px;">My study was concentrated on finding an efficient solution to detect pipeline cracking.</p>
 	<li><h4 style="font-family: 'Comic Sans MS';">Wizroots Technologies, Software Intern <br />May 2017–June 2017, Bangalore, India</h4></li>
-	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black;">Developed an admin portal, to manage employee profiles and the various resources assigned to them.</p>
+	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black; font-size:14px;">Developed an admin portal, to manage employee profiles and the various resources assigned to them.</p>
 
 </ul>
 <br>
+
+<h2 id="contact">SOME FUN FACTS ABOUT ME</h2>
+<ul>
+<li><h4 style="font-family: 'Comic Sans MS';">I am a Violinist <span>&#127931;</span>.</h4></li>
+<li><h4 style="font-family: 'Comic Sans MS';">I can speak, read and write 3 languages.</h4></li>
+<li><h4 style="font-family: 'Comic Sans MS';">I have visited Thailand <span>&#127481;&#127469;</span>.</h4></li>
+<li><h4 style="font-family: 'Comic Sans MS';">I love hiking and long drives <span>&#128663;</span>.</h4></li>
+</ul>
+
+<br>
+<h2 id="contact">CONTACT</h2>
+<ul>
+<li><h4 style="font-family: 'Comic Sans MS';">Email: <a href="mailto:ajays@virginia.edu">ajays@virginia.edu</a></h4></li>
+</ul>
