@@ -8,7 +8,7 @@ layout: page
 <p><h3 style="color: #222;font-family: Comic Sans MS;">Hey you!<span>&#128075;</span> I’m Ajay</h3></p>
 
 <p style="color: #222;font-family: Comic Sans MS; text-align: justify;">I am a Computer Science professional with a strong educational background and 
-    several years of experience in the industry. I am currently pursuing a masters in Computer Science from the 
+    three years of experience in the industry. I am currently pursuing a masters in Computer Science from the 
     <a href="https://engineering.virginia.edu/departments/computer-science">University of Virginia</a>, which I am expecting to complete by December 2023.  I've worked and explored the fields of machine learning with various projects covering the
 major portions of Natural Language Processing. <br><br>Explore my profile and feel free
 to get in touch anytime <span>&#9749;</span></p><br>
