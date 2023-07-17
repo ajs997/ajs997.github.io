@@ -16,8 +16,8 @@ to get in touch anytime <span>&#9749;</span></p>.<br>
 <h2>ACTIVITIES AT UVA</h2>
 <ul class="skill-list">
     <li><h4 style="font-family: 'Comic Sans MS';">Research Assistant at <a href="https://biocomplexity.virginia.edu/institute/divisions/network-systems-science-and-advanced-computing">UVa Biocomplexity Institute</a> under Prof. Srinivasan Venkatramanan, Spring 2023-present</h4></li>
-	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black;font-size:14px;">• Working on a interactive tool for public health practitioners to extract insights from time series data related to ongoing epidemic outbreaks.<br>• This tool will allow users to select a time series of epidemiological significance and
-        extract categorical indicators of activity over time.<br></p>
+	<p style="font-family: 'Comic Sans MS';font-size:medium;color:black;font-size:14px;">• Working on a interactive tool for public health practitioners to extract insights from time series data related to ongoing epidemic outbreaks.<br>• This tool will allow users to select a time series of epidemiological significance and extract categorical indicators of activity over time.<br>
+    • Leading the dev team and interacting with technical experts and customers to identify architecture challenges and new enhancements.<br></p>
     <li><h4 style="font-family: 'Comic Sans MS';">Teaching Assistant for APMA3110 <a href="https://www.coursicle.com/virginia/courses/APMA/3110/">Applied Statistics and Probability</a> taught by Prof. Deepyaman Maiti, Spring 2023</h4></li>
     <li><h4 style="font-family: 'Comic Sans MS';">Teaching Assistant for APMA3150 <a href="https://www.coursicle.com/virginia/courses/APMA/3150/">From Data to Knowledge</a> taught by Prof. Gianluca Guadagni, Fall 2022</h4></li>
 </ul>   
